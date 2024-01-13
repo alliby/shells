@@ -1,2 +1,2 @@
 # shells
-collections for nix shell
+collection for nix shell
